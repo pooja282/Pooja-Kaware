@@ -1,4 +1,4 @@
-<img src = "https://github.com/pooja282/Pooja Kaware/blob/main/Data%20Science.jpeg" height = 300 width = 100%><img>
+<img src = "https://github.com/pooja282/pooja282/blob/main/Data%20Science.jpeg" height = 300 width = 100%><img>
 
 <h1 align="center">Hi 👋, I'm Pooja Kaware</h1>
 <h3 align="center">This is Pooja Kaware and I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering to achieve a level of Data Science. I live in Pune, India .</h3>
