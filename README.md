@@ -1,7 +1,7 @@
 <img src = "https://github.com/pooja282/pooja282/blob/main/data%20science.jpeg" height = 300 width = 100%><img>
 
 <h1 align="center">Hi 👋, I'm Pooja Kaware</h1>
-<h3 align="center">This is Pooja Kaware and I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. I live in Pune, India .</h3>
+<h3 align="center">This is Pooja Kaware and I am a Data Science & Data Analyst enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. I live in Pune, India .</h3>
 
 - 📫 How to reach me **poojakaware282@gmail.com**
 
@@ -22,7 +22,7 @@
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Cloud | Basic AWS |
+| Cloud | Basic AWS |snowflake
 | Operating System | MacOs, Windows |
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
@@ -30,9 +30,11 @@
 
 ## :notebook_with_decorative_cover: Skill Elaboration
 | Skill | Technologies used to work or Known | 
-|:--|:------------|
+|:--|:------------
+|Data Analysis by power BI & Tableau
 | Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
+  
