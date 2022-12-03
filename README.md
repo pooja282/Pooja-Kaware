@@ -22,7 +22,7 @@
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Cloud | Basic AWS |snowflake
+| Cloud | Basic AWS |snowflake |
 | Operating System | MacOs, Windows |
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
