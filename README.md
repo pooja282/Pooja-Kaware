@@ -17,8 +17,8 @@
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python,C |
-| DataBase | SQL, |
-| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
+| DataBase | MYSQL |
+| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook ,MYSQL Workbench |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
