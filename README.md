@@ -31,7 +31,7 @@
 ## :notebook_with_decorative_cover: Skill Elaboration
 | Skill | Technologies used to work or Known | 
 |:--|:------------
-|Data Analysis by power BI & Tableau
+|Data Analysis| by power BI & Tableau
 | Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
