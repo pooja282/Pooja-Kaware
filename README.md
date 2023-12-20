@@ -17,7 +17,6 @@
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python,C,java,c++ |
-|API| | flask |
 | DataBase | MYSQL,mongodb,cassandra,Radius |
 |Data Visualization| Power BI, Tableau|
 |Big Data | Hadoop, Apache Airflow ,Hive, Apache Spark
