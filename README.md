@@ -1,7 +1,7 @@
 <img src = "https://github.com/pooja282/pooja282/blob/main/data%20science.jpeg" height = 300 width = 100%><img>
 
 <h1 align="center">Hi 👋, I'm Pooja Kaware</h1>
-<h3 align="center">This is Pooja Kaware and I am a Data Science & Data Analyst enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. I live in Pune, India .</h3>
+<h3 align="center">This is Pooja Kaware and I am a Data Science & Data Analyst enthusiast. I have insights into Big data Technologies,Data Visualization-Analysis & Reporting using power BI and Tableau ,Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. I live in Pune, India .</h3>
 
 - 📫 How to reach me **poojakaware282@gmail.com**
 
@@ -16,14 +16,17 @@
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python,C |
-| DataBase | MYSQL |
+| Programming | Python,C,java,c++ |
+|API| |flask|
+| DataBase | MYSQL,mongodb,cassandra,Radius |
+|Data Visualization| Power BI, Tableau|
+|Big Data | Hadoop, Apache Airflow ,Hive, Apache Spark
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook ,MYSQL Workbench |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
 | Cloud | Basic AWS |snowflake |
-| Operating System | MacOs, Windows |
+| Operating System | MacOs, Windows ,linux|
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
 
@@ -37,4 +40,4 @@
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
-  
+ |Big Data Technology| Hadoop,Apache Airflow,Hive, Apache Spark| 
